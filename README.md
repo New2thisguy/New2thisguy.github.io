@@ -1,5 +1,3 @@
-# dlperdue.github.io
-
 # Hi, Dallas Perdue 
   Ten year U.S Navy Vet. Studying Cybersecurity and network and cloud administration.  
 
